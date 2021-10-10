@@ -18,10 +18,10 @@ allprojects {
 And add next dependencies in the build.gradle of the module:
 ```gradle
 dependencies {
-    implementation 'com.github.pemassi:Pata:[VERSION TAG]' 
+    implementation 'com.github.pemassi:logback-google-chat-appender:[VERSION TAG]' 
     
     //Example 
-    implementation 'com.github.pemassi:Pata:1.0.0'
+    implementation 'com.github.pemassi:logback-google-chat-appender:1.0.0'
 }
 ```
 
